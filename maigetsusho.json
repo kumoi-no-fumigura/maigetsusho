@@ -23,7 +23,6 @@
   }
  ],
  "status": "校正中（NDL 全文 OCR から起こし、修正案で 8 か所を直した。ほかはルビ・柱・誤認識を含む）",
- "proofread_at": "2026-10-29",
  "license": {
   "text": "CC0 1.0"
  },
@@ -176,6 +175,7 @@
   }
  ],
  "poems": [],
+ "proofread_at": "2026-10-29",
  "catalog": {
   "work_id": "maigetsusho",
   "work": "毎月抄",
@@ -188,6 +188,7 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T11:48:33+09:00"
+  "updated_at": "2026-10-29T11:48:33+09:00",
+  "yaku": 5
  }
 }
